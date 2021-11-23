@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Hira Aftab](mailto:aftabh@icloud.com)
+* [Nimra Aftab](mailto:nimra_af@hotmail.com)
