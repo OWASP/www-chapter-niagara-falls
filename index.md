@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Niagra Falls
+title: OWASP Niagara Falls
 tags: example-tag
 region: North America
 meetup-group:
